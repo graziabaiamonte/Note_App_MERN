@@ -2,7 +2,7 @@
 
 Applicazione full-stack per la gestione di note costruita con lo stack MERN (MongoDB, Express, React, Node.js)
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack
 
 - **React**
 - **Vite**
